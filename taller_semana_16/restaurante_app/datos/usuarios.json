@@ -1,0 +1,23 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Natalia",
+        "correo": "natalia@gmail.com",
+        "contraseña": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "Monica",
+        "correo": "monica@hotmail.com",
+        "contraseña": "abcd",
+        "rol": "Cliente"
+    },
+    {
+        "id_usuario": 3,
+        "nombre": "Juan",
+        "correo": "juan@gmail.com",
+        "contraseña": "9876",
+        "rol": "Empleado"
+    }
+]
